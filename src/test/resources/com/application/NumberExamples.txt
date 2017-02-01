@@ -1,0 +1,6 @@
+"phoneNumber": "+(420) 111 222 333"
+"phoneNumber": "+(420)-1 11222333"
+"phoneNumber": "+420111222333"
+"phoneNumber": "00420111222333"
+"phoneNumber": "(111) 222 (333)"
+"phoneNumber": "123456789"
